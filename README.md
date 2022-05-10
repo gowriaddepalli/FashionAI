@@ -8,6 +8,7 @@ This is the official repository for Fashion based AI resources
 - https://github.com/lzhbrian/image-to-image-papers
 - https://github.com/ayushidalmia/awesome-fashion-ai
 - https://github.com/kanchan88/snapchat-like-shades-filter
+- https://github.com/minar09/awesome-virtual-try-on
 
 ## Blogs
 
